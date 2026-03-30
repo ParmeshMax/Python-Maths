@@ -10,7 +10,7 @@
 
 # School Level Python Examples
 
-👋 Hi, I’m a Class 9 student from Nepal.  
+👋 Hi, I’m a Class 10 student from Nepal.  
 This repository contains my Python practice codes and examples from school-level projects.
 
 ## 📚 About
