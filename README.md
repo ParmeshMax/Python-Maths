@@ -18,17 +18,8 @@ This repository contains my Python practice codes and examples from school-level
 - Focused on learning basics of coding  
 - Includes examples like math problems, simple games, and small projects  
 
-## 🚀 Goals
-- Improve my programming skills  
-- Share my learning journey  
-- Explore open-source collaboration  
-
 ## 🛠 Topics Covered
-- Variables and Data Types
-- Loops and Conditions  
-- Functions  
-- Basic Math Programs  
-- Small Projects  
+- Basic Math Programs    
 
 ## 📌 Note
 These are practice codes for learning purposes.  
