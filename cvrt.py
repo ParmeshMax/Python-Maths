@@ -9,4 +9,7 @@ def convert():
 Celcius=float(input ("Enter the temperature in Celcius: "))
 print(convert())
 
+import sys
+print(sys.getsizeof(Celcius)) #for get the size of any file
+
   
